@@ -31,16 +31,16 @@ INSERT INTO `teams` (`id`, `name`, `abbreviation`, `conference`, `division`) VAL
 (20, 'New Orleans Saints', 'NO', 'NFC', 'South'),
 (21, 'NY Giants', 'NYG', 'NFC', 'East'),
 (22, 'NY Jets', 'NYJ', 'AFC', 'East'),
-(23, 'Oakland Raiders', 'OAK', 'AFC', 'West'),
+(23, 'Las Vegas Raiders', 'LV', 'AFC', 'West'),
 (24, 'Philadelphia Eagles', 'PHI', 'NFC', 'East'),
 (25, 'Pittsburgh Steelers', 'PIT', 'AFC', 'North'),
-(26, 'San Diego Chargers', 'SD', 'AFC', 'West'),
+(26, 'Los Angeles Chargers', 'LAC', 'AFC', 'West'),
 (27, 'San Francisco 49ers', 'SF', 'NFC', 'West'),
 (28, 'Seattle Seahawks', 'SEA', 'NFC', 'West'),
-(29, 'St. Louis Rams', 'STL', 'NFC', 'West'),
+(29, 'Los Angeles Rams', 'LAR', 'NFC', 'West'),
 (30, 'Tampa Bay Buccaneers', 'TB', 'NFC', 'South'),
 (31, 'Tennessee Titans', 'TEN', 'AFC', 'South'),
-(32, 'Washington Redskins', 'WAS', 'NFC', 'East');
+(32, 'Washington Commanders', 'WAS', 'NFC', 'East');
 
 
 
